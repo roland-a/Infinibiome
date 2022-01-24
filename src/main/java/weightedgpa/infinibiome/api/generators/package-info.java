@@ -1,0 +1,8 @@
+
+@ParametersAreNonnullByDefault
+@MethodsReturnNonnullByDefault
+package weightedgpa.infinibiome.api.generators;
+
+import mcp.MethodsReturnNonnullByDefault;
+
+import javax.annotation.ParametersAreNonnullByDefault;
